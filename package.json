@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "quiver-error": ">=0.0.2",
-    "quiver-stream-channel": ">=0.0.7",
+    "quiver-stream-channel": ">=0.0.7"
   },
   "devDependencies": {
     "mocha": ">=1.8.1",
